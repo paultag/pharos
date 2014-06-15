@@ -17,3 +17,8 @@ CREATE EXTENSION
 ```shell
 ./manage.py syncdb
 ```
+
+```
+./manage.py loadgooglelatitude google-latitude-kml-file-you-exported.kml username
+# You might need to go back in time to grab this.
+```
