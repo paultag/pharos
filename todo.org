@@ -1,0 +1,9 @@
+* TODO API
+** TODO Authenticate it properly
+** TODO Allow batch submission of points
+* TODO Front-end
+** TODO Tilemill. Make it pretty.
+* TODO Load in shittons of data.
+** TODO Census place shapefiles
+** TODO Look for per-state shapefiles.
+** TODO Load in Open Civic Data divison IDs & data
